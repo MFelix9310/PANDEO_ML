@@ -1,0 +1,24 @@
+# Dependencias principales
+PyQt5>=5.15.0
+numpy>=1.20.0
+scipy>=1.7.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+joblib>=1.1.0
+
+# Modelo de aprendizaje automático
+catboost>=1.0.0
+scikit-learn>=1.0.0
+
+# Visualización 3D (opcional)
+pyvista>=0.37.0
+pyvistaqt>=0.9.0
+
+# Exportación de resultados
+reportlab>=3.6.0
+Pillow>=9.0.0
+
+# Desarrollo y pruebas
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0 
