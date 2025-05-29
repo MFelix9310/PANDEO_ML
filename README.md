@@ -1,6 +1,5 @@
 # PANDEO ML
 
-![Pandeo ML Logo](app/assets/icon.png)
 
 ## Descripción
 
